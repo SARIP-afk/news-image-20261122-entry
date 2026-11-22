@@ -1,5 +1,9 @@
 # news-image-20261122 v2 — Sunday 22 November 2026
 
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/SARIP-afk/news-image-20261122-entry/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/SARIP-afk/news-image-20261122-entry/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+
 A front page that sums up Sunday 22 November 2026 in one image:
 3 hero stories, 12 drawn cards, 16 briefs — 31 stories from 7 regions —
 plus a world map with 12 pins, a big-numbers strip and a DATE CHECK box
