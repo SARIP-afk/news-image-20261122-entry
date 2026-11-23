@@ -1,5 +1,9 @@
 # Sunday 22 November 2026 — THE WORLD, globe edition (TOP10 candidate V3.2)
 
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/SARIP-afk/news-image-20261122-entry/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/SARIP-afk/news-image-20261122-entry/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+
 A premium international newspaper front page built around one big 3D
 globe: masthead "THE WORLD" (with a small globe in the O), "THE DAY IN
 WORLD NEWS" across the globe, three hero stories, six region panels,
@@ -108,5 +112,5 @@ Candidate only — NOT submitted, NOT bundled, NOT pushed. V1, V2, V3
 and the standing entry (v3, newspaper style) are untouched in their
 own directories. Verified hashes (see BACKUP-HASHES.md): V1 entry.png
 a3bd073b…, V2 entry.png 860426ab…, V3 entry.png 831c9256…, v3 entry.png
-050d3d6e…. This candidate: entry.png 222,946 bytes, sha256
-658cf9ce28e3b00fba9293fa4523abee5d2a7b5fbc9329308f565c38c6350569.
+050d3d6e…. This candidate: entry.png 226,162 bytes, sha256
+dc9ef0b37943714d433668552e53ab190fdfec867fe8c84d918512f17b97b0c8.
